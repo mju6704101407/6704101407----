@@ -24,3 +24,4 @@ quasar build
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
 # 6704101407----
 # 6704101407-boom
+# 6704101407-boom
